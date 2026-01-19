@@ -1,2 +1,2 @@
 # Free-Fire
-Segue a entrega de trabalho da faculdade Estacio, Ciências da computação EAD
+Trabalho da faculdade Estacio (Ciências da computação)
